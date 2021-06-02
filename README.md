@@ -3,11 +3,11 @@
 ### Hi there 👋
 
 ## 👨🏻‍💻  About Me
-I am a software engineer who loves programming, reading, driving and playing games. 
-I am specialized in building mobile apps.
-I am a great team player with a growth mindset.
-I have bachelor's degree engineering. But I strongly feel that all your academic degree and certificates doesn't matter unless you keep learning.
-I am currently working as a Software Engineering Lead at Trimble, Inc in Chennai, India
+- I am a software engineer who loves programming, reading, driving and playing games. 
+- I am specialized in building mobile apps.
+- I am a great team player with a growth mindset.
+- I have bachelor's degree engineering. But I strongly feel that all your academic degree and certificates doesn't matter unless you keep learning.
+- I am currently working as a Software Engineering Lead at Trimble, Inc in Chennai, India
 
 ## 🛠  Tech Stack
 ### Programming Languages
