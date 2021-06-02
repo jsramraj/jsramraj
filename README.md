@@ -1,4 +1,4 @@
-![GitHub watchers](https://img.shields.io/github/watchers/jsramraj/jsramraj?style=social)
+![](https://komarev.com/ghpvc/?username=jsramraj&style=for-the-badge)
 
 ### Hi there 👋
 
